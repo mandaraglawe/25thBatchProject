@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-11T15:45:33 IST" name="Default suite" finished-at="2023-10-11T15:45:53 IST" duration-ms="19896">
+  <suite started-at="2023-10-11T20:02:58 IST" name="Default suite" finished-at="2023-10-11T20:02:58 IST" duration-ms="39">
     <groups>
     </groups>
-    <test started-at="2023-10-11T15:45:33 IST" name="Default test" finished-at="2023-10-11T15:45:53 IST" duration-ms="19896">
-      <class name="finalProject.AmazonUsingPOM">
-        <test-method signature="Amazon()[pri:0, instance:finalProject.AmazonUsingPOM@128d2484]" started-at="2023-10-11T15:45:33 IST" name="Amazon" finished-at="2023-10-11T15:45:53 IST" duration-ms="19864" status="PASS">
+    <test started-at="2023-10-11T20:02:58 IST" name="Default test" finished-at="2023-10-11T20:02:58 IST" duration-ms="39">
+      <class name="finalProject.SampleClass">
+        <test-method signature="m1()[pri:0, instance:finalProject.SampleClass@313ac989]" started-at="2023-10-11T20:02:58 IST" name="m1" finished-at="2023-10-11T20:02:58 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Amazon -->
-      </class> <!-- finalProject.AmazonUsingPOM -->
+        </test-method> <!-- m1 -->
+      </class> <!-- finalProject.SampleClass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
